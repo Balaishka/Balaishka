@@ -10,16 +10,4 @@
 
 ### Мой стек:
 
-JavaScript
-HTML
-CSS
-React.js
-Node.js
-Git
-Webpack
-Vue.js
-PHP
-Figma
-Adobe Photoshop
-Adobe Illustrator
-Английский A1
+JavaScript  |  HTML  |  CSS  |  React.js  |  Node.js  |  Git  |  Webpack  |  Vue.js  |  PHP  |  Figma  |  Adobe Photoshop  |  Adobe Illustrator  |  Английский A1
